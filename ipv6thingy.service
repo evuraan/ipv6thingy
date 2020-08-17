@@ -1,0 +1,10 @@
+[Unit]
+Description=ipv6thingy
+After=network.target
+
+[Service]
+ExecStart=/usr/local/bin/ipv6thingy --daemon
+Restart=always
+
+[Install]
+WantedBy=default.target

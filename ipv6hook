@@ -1,0 +1,1 @@
+/usr/local/bin/ipv6thingy $reason $interface  || :
