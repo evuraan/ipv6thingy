@@ -16,7 +16,7 @@ $ sudo apt-get install isc-dhcp-client radvd
 </pre>
 
 ### Config file 
-`/etc/ipv6thingy.conf` is the config file we use. Setup your config based on the `ipv6thingy.conf` provided.
+`/etc/ipv6thingy.conf` is the config file we use. Setup your config based on the [`ipv6thingy.conf`](https://github.com/evuraan/ipv6thingy/blob/master/ipv6thingy.conf) provided.
 
 `internal` is your NIC which faces your internal devices. 
 
