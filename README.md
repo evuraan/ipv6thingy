@@ -167,6 +167,7 @@ $ sudo rm -v /etc/dhcp/dhclient-exit-hooks.d/ipv6hook
 </pre>
 
 ## References
+- https://www.tldp.org/HOWTO/Linux+IPv6-HOWTO/ch07s04.html
 - https://baldnerd.com/send_packet6-operation-not-permitted/
 - https://www.phildev.net/phil/blog/?p=308
 - https://github.com/jaymzh/v6-gw-scripts
