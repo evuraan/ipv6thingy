@@ -55,7 +55,7 @@ $ sudo ./setup.sh
 
 If everything goes well, your devices should have IPv6 addresses by now. 
 
-Navigate to https://test-ipv6.comcast.net/ or https://test-ipv6.com/ to verify. 
+Navigate to http://ipv6.bieringer.de/ or  https://test-ipv6.comcast.net/ to verify. 
 
 ### Status Check
 Check the status of service `ipv6thingy`: 
